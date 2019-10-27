@@ -48,3 +48,15 @@ If you find this code useful, please cite the following paper:
     year={2017}
   }
   ```
+
+### ml add
+env build
+```
+conda create -n python=2.7
+
+pip install Theano
+pip install -r requirements.txt
+
+
+```
+
